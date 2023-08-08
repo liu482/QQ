@@ -1,6 +1,4 @@
-<?php
 include('./conf/zanlog.php');
-?>
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
